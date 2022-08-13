@@ -1,0 +1,18 @@
+{
+  "name": "primo",
+  "version": "1.0.0",
+  "description": "script para verificar se um número é primo",
+  "main": "primo.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "nodemon primo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rio Ribeiro",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
